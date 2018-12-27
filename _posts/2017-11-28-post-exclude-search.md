@@ -13,7 +13,7 @@ This post should not appear in the search index because it has the following YAM
 search: false
 ```
 
-{% asciicast 14 %}
+<script src="https://asciinema.org/a/14.js" id="asciicast-14" async></script>
 
 **Note:** `search: false` only works to exclude posts when using Lunr as a search provider.
 {: .notice--info}
