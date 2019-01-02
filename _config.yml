@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Huang"
+title                    : "Michael's Blog"
 title_separator          : "-"
 name                     : &name "Michael Huang"
 description              : &description "Software Engineer at QNAP"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/assets/images/michael-huang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/michael-huang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
   location         : "Taipei, Taiwan"
   #email            : "sdhuang32@gmail.com"
