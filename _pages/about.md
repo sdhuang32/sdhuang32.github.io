@@ -11,7 +11,7 @@ I am a software engineer with focus on infrastructure, virtualization, high avai
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Current)
 
 ## Skills
-- Virutalizations: [oVirt](https://ovirt.org/), Docker, Kubernetes
+- Virtualizations: [oVirt](https://ovirt.org/), Docker, Kubernetes
 - HA and Clustering: Keepalived, GlusterFS
 - File sharing: Samba, NFS
 - Automation & CI/CD: Ansible, Jenkins
