@@ -1,5 +1,6 @@
 ---
 title:  "Enable Nested Virtualization on QNAP QTS"
+classes: wide
 tags: 
   - QNAP
   - QTS
