@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "/images/michael-huang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/sdhuang32/images/michael-huang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
   location         : "Taipei, Taiwan"
   #email            : "sdhuang32@gmail.com"
