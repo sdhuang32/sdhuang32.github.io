@@ -17,7 +17,7 @@ The asciinema project consists of some pieces:
 
 Benefits using asciinema includes:
 - It helps us memorize all the inputs and outputs shown on the screen, including the timing and color information in an extremely simple way. You can just use it for your working diary or learning history.
-- Insteasd of manually key in every single characters you see in a youtube video, you can just highlight any command on the asciinema player and copy and paste to reproduce a series of work very easily.
+- Instead of manually keying in every single character you see in a youtube video, you can just highlight any command on the asciinema player and copy and paste to reproduce a series of works very easily.
 - You can embed the asciinema player at many places such as your blog, Google Site, or any pages that support `<script>` tag.
 
 Next, I'll briefly show what it can do for us. The first part is a self-describing example that shows the most useful combination `asciinema rec` + `asciinema play` + `asciinema upload`:
