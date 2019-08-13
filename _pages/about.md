@@ -9,7 +9,7 @@ title: "About"
 I am a software engineer with focus on infrastructure, virtualization, high availability and clustering.
 
 ## Work history
-- Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Current)
+- Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Apr 2019)
 
 ## Skills
 - Virtualizations: [oVirt](https://ovirt.org/), Docker, Kubernetes
@@ -23,7 +23,7 @@ I am a software engineer with focus on infrastructure, virtualization, high avai
 ## Research
 My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grey scale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
 
-My advisor is [Prof. Pei-Yih Ting](http://www.cs.ntou.edu.tw/cswp/index.php?name=people1-a&sid=8).
+My advisor is [Prof. Pei-Yih Ting](http://squall.cs.ntou.edu.tw/).
 
 ## Publications {#publications}
 **基於浮水印技術且具不可偽造性及不模糊性的著作權保護機制**  

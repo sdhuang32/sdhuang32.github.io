@@ -114,7 +114,7 @@ author:
       url: mailto:sdhuang32@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://sdhuang32.github.io/"
+      # url: "https://sdhuang32.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -270,6 +270,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  zh-tw:
+    output: true
+    permalink: /:collection/:title/
 
 # Defaults
 defaults:
@@ -280,7 +284,18 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
+      comments: true
+      share: true
+      related: true
+  # _zh-tw
+  - scope:
+      path: ""
+      type: zh-tw
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
       comments: true
       share: true
       related: true
