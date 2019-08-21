@@ -5,6 +5,7 @@ tags:
   - Scripting
   - Tools
 date: 2018-08-05
+last_modified_at: 2019-01-15
 ---
 
 In this article I'm going to share my experience using [asciinema](https://asciinema.org), a very elegant and useful tool for you to share all your works in a Linux/Unix shell.
