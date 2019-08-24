@@ -4,7 +4,7 @@ excerpt: "I'm going to share my understanding of oVirt REST API,
 and my experiene in testing and documenting those APIs using Postman and Swagger UI."
 classes: wide
 tags: 
-  - REST-API
+  - REST API
   - oVirt
   - Postman
   - Swagger
