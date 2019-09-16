@@ -106,7 +106,7 @@ author:
   name             : *name
   avatar           : "/assets/sdhuang32/images/michael-huang.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : *description
-  location         : "Taipei, Taiwan"
+  location         : "Sydney, Australia"
   #email            : "sdhuang32@gmail.com"
   links:
     - label: "Email"
