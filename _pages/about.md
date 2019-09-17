@@ -12,16 +12,16 @@ I am a software engineer with focus on infrastructure, virtualization, high avai
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Apr 2019)
 
 ## Skills
-- Virtualizations: [oVirt](https://ovirt.org/), Docker, Kubernetes
+- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes
 - HA and Clustering: Keepalived, GlusterFS
-- File sharing: Samba, NFS
-- Automation & CI/CD: Ansible, Jenkins
-- Database administration: PostgreSQL, [repmgr](https://repmgr.org/), [Patroni](https://github.com/zalando/patroni)
-- Programming and other primitives: C, shell scripting, Python, Swagger UI (with OpenAPI Specification 2.0)
+- File Sharing: Samba server (with Active Directory integration)
+- Automation & CI/CD: Jenkins, Ansible
+- Database Administration: PostgreSQL, [repmgr](https://repmgr.org/)
+- Programming and other primitives: Shell scripting, C, Python, Swagger UI (with OpenAPI Specification 2.0)
 
 
 ## Research
-My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grey scale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
+My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grayscale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
 
 My advisor is [Prof. Pei-Yih Ting](http://squall.cs.ntou.edu.tw/).
 
