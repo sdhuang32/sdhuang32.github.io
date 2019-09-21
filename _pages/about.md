@@ -6,13 +6,13 @@ permalink: /about/
 title: "About"
 ---
 
-I am a software engineer with focus on infrastructure, virtualization, high availability and clustering.
+I worked on a team under the Enterprise NAS (Network Attached Storage) department to build on-premise hyper-converged storage solutions. Areas I focused on are infrastructure, virtualization, high availability and clustering.
 
 ## Work history
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Apr 2019)
 
 ## Skills
-- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes
+- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes, GCP, AWS
 - HA and Clustering: Keepalived, GlusterFS
 - File Sharing: Samba server (with Active Directory integration)
 - Automation & CI/CD: Jenkins, Ansible
