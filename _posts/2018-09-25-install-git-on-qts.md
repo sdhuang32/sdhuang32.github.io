@@ -16,7 +16,7 @@ If you work on a QNAP QTS NAS "directly", I mean, just ssh into it and use it as
 official Linux box, you may find it a bit hard because QTS is a specialized embedded Linux. 
 There is only a limited number of utilities built-in and, although it is based on Ubuntu, 
 it has neither package manager such as apt or yum nor compiling tools such as gcc and make. 
-So it's not easy to install a new package unless there is a QPKG provided to install the one your want.
+So it's not easy to install a new package unless there is a QPKG provided to install the one you want.
 
 Git is one of those packages that you desire to install so that you can develop your stuff 
 more comfortably on your NAS. But there is no official Git QPKG on the AppCenter... so let's 

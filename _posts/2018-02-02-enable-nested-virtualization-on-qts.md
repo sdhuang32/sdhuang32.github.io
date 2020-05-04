@@ -8,7 +8,7 @@ tags:
   - QTS
   - Virtualization
 date: 2018-02-02
-last_modified_at: 2019-01-05
+last_modified_at: 2020-05-03
 ---
 
 ## Cause
@@ -55,7 +55,10 @@ N
 
 ## Manually Enable Nested Virtualization
 
-By checking the following file  
+First of all, make sure you set the cpu type of your instance as "Passthrough". (Thanks to Kirill's kind reminder)
+<img src="/assets/sdhuang32/images/cpu-passthrogh.png">
+
+Then, by checking the following file  
 ```bash
 [~] # vim /share/CACHEDEV1_DATA/.qpkg/QKVM/usr/etc/qvsd.d/44-preload/01-module
 ```
@@ -79,7 +82,7 @@ load_kvm()
     fi
 }
 ```
-So now we have two choices (and we can do the both):
+So now we have two choices (and we can do them both):
 
 1. (Permanent way) Change the argument when loading the module in the above function:
 ```bash

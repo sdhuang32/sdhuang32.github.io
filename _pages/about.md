@@ -6,24 +6,26 @@ permalink: /about/
 title: "About"
 ---
 
-I worked on a team under the Enterprise NAS (Network Attached Storage) department to build on-premise hyper-converged storage solutions. Areas I focused on are infrastructure, virtualization, high availability and clustering.
+I worked on an enterprise NAS (Network Attached Storage) department to build on-premises hyper-converged infrastructure solutions. Areas I focused on are enterprise storage, SMB/CIFS file sharing, virtualization, high availability and DevOps.
 
 ## Work history
+- Associate DevOps Engineer at [Vantage FX](https://www.vantagefx.com/), Sydney, Australia (Feb 2020 - Present)
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Apr 2019)
 
 ## Skills
 - Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes, GCP, AWS
+- Automation & CI/CD: Bash scripting, Jenkins, Ansible
+- Database Administration: PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
+- File Sharing: Samba server (with Active Directory integration), NFS, wireshark, tshark
+- Performance measurement: Iometer, fio, iperf
 - HA and Clustering: Keepalived, GlusterFS
-- File Sharing: Samba server (with Active Directory integration)
-- Automation & CI/CD: Jenkins, Ansible
-- Database Administration: PostgreSQL, [repmgr](https://repmgr.org/)
-- Programming and other primitives: Shell scripting, C, Python, Swagger UI (with OpenAPI Specification 2.0)
+- Programming and other primitives: C, Python, Git, OpenAPI Specification 2.0, Swagger UI
 
 
 ## Research
 My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grayscale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
 
-My advisor is [Prof. Pei-Yih Ting](http://squall.cs.ntou.edu.tw/).
+My advisor is [Prof. Pei-Yih Ting (丁培毅)](http://squall.cs.ntou.edu.tw/).
 
 ## Publications {#publications}
 **A Provable Watermark-based Copyright Protection Scheme**  
