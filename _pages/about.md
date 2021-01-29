@@ -6,14 +6,15 @@ permalink: /about/
 title: "About"
 ---
 
-I worked on an enterprise NAS (Network Attached Storage) department to build on-premises hyper-converged infrastructure solutions. Areas I focused on are enterprise storage, SMB/CIFS file sharing, virtualization, high availability and DevOps.
+I'm a DevOps enthusiast with a focus on highly available and scalable infrastructure, containerization, AWS, and automation techniques. Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore different beautiful national parks and beaches.
 
 ## Work history
-- Associate DevOps Engineer at [Vantage FX](https://www.vantagefx.com/), Sydney, Australia (Feb 2020 - Present)
-- Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Nov 2015 - Apr 2019)
+- Cloud Engineer at [Versent](https://versent.com.au/), Sydney, Australia (Jan 2021 - Present)
+- DevOps Engineer at [Vantage FX](https://www.vantagefx.com/), Sydney, Australia (Feb 2020 - Jan 2021)
+- Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Oct 2015 - Apr 2019)
 
 ## Skills
-- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes, GCP, AWS
+- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes, AWS
 - Automation & CI/CD: Bash scripting, Jenkins, Ansible
 - Database Administration: PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
 - File Sharing: Samba server (with Active Directory integration), NFS, wireshark, tshark
