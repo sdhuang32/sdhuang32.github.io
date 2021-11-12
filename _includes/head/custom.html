@@ -3,4 +3,47 @@
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="shortcut icon" href="{{ "/assets/sdhuang32/favicon.ico" | absolute_url }}" />
 
+<style type="text/css">
+a.btt {
+  display: flex;
+  position: fixed;
+  z-index: 999;
+  width: 40px;
+  height: 40px;
+  right: 30px;
+  bottom: 30px;
+  background: #ebebeb;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  box-shadow: 3px 3px 10px rgba(23, 25, 25, 0.2);
+  transition: transform 0.3s ease-in-out;
+  text-decoration: none;
+  align-items: center;
+}
+
+a.btt .fa {
+  width: 100%;
+  height: 100%;
+  display: table;
+}
+
+a.btt .fa-chevron-up:before {
+  color: black;
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+a.btt:hover {
+  transform: translatey(-10%);
+  text-decoration: none;
+}
+
+a.btt:active, a.btt:focus {
+  text-decoration: none;
+  outline: none;
+}
+</style>
 <!-- end custom head snippets -->
