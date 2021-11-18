@@ -4,9 +4,12 @@ excerpt: "I'm going to share a useful tip to install official Git utility direct
 which can definitely make your NAS more developer-friendly."
 classes: wide
 tags: 
+  - Linux
   - QNAP 
   - QTS
   - Container Station
+  - Docker
+  - Containers
   - Tools
 date: 2018-09-25
 last_modified_at: 2019-08-24

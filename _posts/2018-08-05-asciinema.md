@@ -2,6 +2,7 @@
 title:  "asciinema: Amazing Terminal Session Recorder"
 classes: wide
 tags: 
+  - Linux
   - Scripting
   - Tools
 date: 2018-08-05

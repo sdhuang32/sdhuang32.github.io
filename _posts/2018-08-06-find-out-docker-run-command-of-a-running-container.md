@@ -4,6 +4,7 @@ excerpt: "I'm going to share how to show the full 'docker run' command including
 of a running container using a tool by Assaf Lavie." 
 classes: wide
 tags: 
+  - Linux
   - Docker
   - Tools
 date: 2018-08-06

@@ -4,6 +4,7 @@ excerpt: "In this article I'm going to share how to enable the 'nested' option o
 so you can create VMs inside a VM by using QNAP's Virtualization Station."
 classes: wide
 tags: 
+  - Linux
   - QNAP
   - QTS
   - Virtualization

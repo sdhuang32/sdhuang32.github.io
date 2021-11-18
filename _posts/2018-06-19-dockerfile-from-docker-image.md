@@ -4,6 +4,7 @@ excerpt: "In this article I'm going to share how to generate a close-to-original
 of a Docker image using a useful tool by Luka Peschke."
 classes: wide
 tags: 
+  - Linux
   - Docker
   - Tools
 date: 2018-06-19
