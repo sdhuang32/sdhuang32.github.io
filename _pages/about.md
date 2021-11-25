@@ -6,7 +6,11 @@ permalink: /about/
 title: "About"
 ---
 
-I'm a DevOps enthusiast with a focus on highly available and scalable infrastructure, containerization, AWS, and automation techniques. Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore different beautiful national parks and beaches.
+I'm a DevOps enthusiast with a focus on highly available, scalable, and reliable infrastructure, containerization, AWS, and automation techniques.
+
+"Do the right things the right way" is my self discipline and principle of doing anything; I'm dedicated to those simple, elegant, efficient solutions, and enjoy the times solving root causes of tough problems.
+
+Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore different beautiful national parks and beaches.
 
 ## Work history
 - Cloud Engineer at [Versent](https://versent.com.au/), Sydney, Australia (Jan 2021 - Present)
@@ -14,14 +18,13 @@ I'm a DevOps enthusiast with a focus on highly available and scalable infrastruc
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Oct 2015 - Apr 2019)
 
 ## Skills
-- Virtualization and Container Orchestration: [oVirt](https://ovirt.org/), Docker, Kubernetes, AWS
-- Automation & CI/CD: Bash scripting, Jenkins, Ansible
-- Database Administration: PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
-- File Sharing: Samba server (with Active Directory integration), NFS, wireshark, tshark
-- Performance measurement: Iometer, fio, iperf
+- OS Administration: CentOS, Ubuntu, FreeBSD
+- Virtualization and Container Orchestration: AWS, [oVirt](https://ovirt.org/), Docker, Kubernetes
+- Automation & CI/CD: CodePipeline, AWS CDK, Bash scripting, Jenkins, Ansible
+- Database Administration: MySQL, PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
+- File Sharing: Samba server (not only user but developer level, with Active Directory integration)
 - HA and Clustering: Keepalived, GlusterFS
-- Programming and other primitives: C, Python, Git, OpenAPI Specification 2.0, Swagger UI
-
+- Programming and other primitives: C, Python, Git, Nginx, OpenAPI Specification 2.0
 
 ## Research
 My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grayscale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
