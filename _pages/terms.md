@@ -23,7 +23,7 @@ Google Analytics is a web analytics tool I use to help understand how visitors e
 
 #### Google AdSense
 
-Google AdSense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you click on a link or ad banner that takes you to the site of one of their merchants. Google's use of advertising cookies enables it and its partners (third-party vendors) to serve ads to you based on your visit to my site and/or other sites on the Internet. You can read [Google Adsense Privacy Policy][4].
+Google AdSense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you click on a link or ad banner that takes you to the site of one of their merchants. Google's use of advertising cookies enables it and its partners (third-party vendors) to serve ads to you based on your visit to my site and/or other sites on the Internet. You can read [Google AdSense Privacy Policy][4].
 
 You may opt out of personalized advertising by visiting [Ads Settings][5]. Alternatively, you may opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info/choices/][6].
 
