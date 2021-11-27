@@ -19,7 +19,7 @@ Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore d
 
 ## Skills
 - OS Administration: CentOS, Ubuntu, FreeBSD
-- Virtualization and Container Orchestration: AWS, [oVirt](https://ovirt.org/), Docker, Kubernetes
+- Virtualization and Container Orchestration: AWS, Docker, Kubernetes, [oVirt](https://ovirt.org/)
 - Automation & CI/CD: CodePipeline, AWS CDK, Bash scripting, Jenkins, Ansible
 - Database Administration: MySQL, PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
 - File Sharing: Samba server (not only user but developer level, with Active Directory integration)

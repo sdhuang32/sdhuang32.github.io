@@ -2,14 +2,16 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 classes: wide
-last_modified_at: 2021-11-25
+last_modified_at: 2021-11-27
 ---
 
 ## Website license
 
-All original content (e.g., articles, blog posts, illustrations, diagrams, and photographs) available on this site 
-is released under the terms of the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0) unless noted otherwise.
-Basically this means you are free to share, transmit, distribute, alter, transform, and build on my work as long as you don’t use it for commercial purposes without my prior written consent.
+All original content (e.g., articles, blog posts, illustrations, diagrams, photographs, and slides) available on this site is released under the terms of the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0) unless noted otherwise.
+Basically this means you are free to share, transmit, distribute, as long as
+- you give a link back to my site,
+- don't remix, alter, transform, and build upon my work, and
+- don’t use them for commercial purposes without my prior written consent.
 
 ## Cookies and Web Beacons
 
