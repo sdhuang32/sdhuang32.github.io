@@ -11,6 +11,11 @@ date: 2021-11-23
 last_modified_at: 2021-11-23
 ---
 
+---
+這篇文章的繁體中文版本請看[這裡](/zh-tw/ssm-StringParameter-valueFromLookup-use-cases-and-internal-synth-flow)。
+
+---
+
 In this post I'm gonna share the interesting behavior of CDK `ssm.StringParameter.valueFromLookup()` method, 
 the issues it might cause, and the solutions to them.
 
