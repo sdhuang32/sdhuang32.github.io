@@ -13,6 +13,11 @@ date: 2020-08-24
 last_modified_at: 2021-11-19
 ---
 
+---
+這篇文章的繁體中文版本請看[這裡](/zh-tw/software-defined-local-dev-env-in-a-static-cidr-range-using-ovs-and-docker)。
+
+---
+
 In this post I'm gonna share a handy way of creating a simple development platform on-premises within your static 
 private LAN, which I used in my every single working day, enabling you to run internally public containers, 
 so you can quickly develop, test, and troubleshoot your microservices applications together with other colleague engineers.
@@ -96,4 +101,3 @@ for large scale, long term, or mission-critical internal services.
 
 [1]: <https://kb.vmware.com/s/article/1002934>
 [2]: <https://kb.vmware.com/s/article/1004099>
-
