@@ -33,4 +33,8 @@ and then start it again after it becomes down successfully.
 The following is my study about three cases above, 
 which adopts self-hosted engine and clustered storage (such as Ceph or GlusterFS).
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPx8RwCrjYeeLCubXmJT5dqXtw974-MvGrj8uFg-vwTE0YjZs1Pmbkuz6oIcvW4rXbXGQEtsqLBDaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<div class="embed-container"
+ style="position: relative; padding-bottom: 59.27%; height: 0; overflow: hidden; max-width: 100%;">
+ <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  src="https://docs.google.com/presentation/d/e/2PACX-1vQPx8RwCrjYeeLCubXmJT5dqXtw974-MvGrj8uFg-vwTE0YjZs1Pmbkuz6oIcvW4rXbXGQEtsqLBDaq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
