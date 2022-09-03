@@ -13,18 +13,16 @@ I'm a DevOps enthusiast with a focus on highly available, scalable, and reliable
 Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore different beautiful national parks and beaches.
 
 ## Work history
-- Cloud Engineer at [Versent](https://versent.com.au/), Sydney, Australia (Jan 2021 - Present)
+- DevOps Engineer at [Sportradar](https://sportradar.com/), Sydney, Australia (Aug 2022 - Present)
+- Cloud Engineer at [Versent](https://versent.com.au/), Sydney, Australia (Jan 2021 - Aug 2022)
 - DevOps Engineer at [Vantage FX](https://www.vantagefx.com/), Sydney, Australia (Feb 2020 - Jan 2021)
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Oct 2015 - Apr 2019)
 
 ## Skills
-- OS Administration: CentOS, Ubuntu, FreeBSD
-- Virtualization and Container Orchestration: AWS, Docker, Kubernetes, [oVirt](https://ovirt.org/)
-- Automation & CI/CD: CodePipeline, AWS CDK, Bash scripting, Jenkins, Ansible
+- Cloud: AWS, Linux, Docker, Kubernetes, [oVirt](https://ovirt.org/)
+- Automation & CI/CD: AWS CDK, CodePipeline, GitLab CI/CD, Bash scripting, Ansible
 - Database Administration: MySQL, PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
-- File Sharing: Samba server (not only user but developer level, with Active Directory integration)
-- HA and Clustering: Keepalived, GlusterFS
-- Programming and other primitives: C, Python, Git, Nginx, OpenAPI Specification 2.0
+- Programming & other primitives: TypeScript, Python, C, Git, Nginx
 
 ## Research
 My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grayscale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.
