@@ -20,8 +20,8 @@ Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore d
 
 ## Skills
 - Cloud: AWS, Linux, Docker, Kubernetes, [oVirt](https://ovirt.org/)
-- Automation & CI/CD: AWS CDK, CodePipeline, GitLab CI/CD, Bash scripting, Ansible
-- Database Administration: MySQL, PostgreSQL, [repmgr](https://repmgr.org/) (streaming replication and HA for PostgreSQL)
+- Automation & CI/CD: AWS CDK, Terraform, GitLab CI/CD, CodePipeline, Bash scripting, Ansible
+- Database Administration: PostgreSQL, MySQL
 - Programming & other primitives: TypeScript, Python, C, Git, Nginx
 
 ## Research

@@ -1,7 +1,7 @@
 ---
 title:  "AWS CDK ssm.StringParameter.valueFromLookup() use cases and internal synthesis flow"
-excerpt: "Here is a handy way to establish a simple development environment within your private LAN, 
-which enables you to quickly and easily develop, test, and troubleshoot your containerized applications."
+excerpt: "Sharing with you issues that CDK `ssm.StringParameter.valueFromLookup()` method might cause,
+the root cause and its relationship with `cdk synth` internal flow, and proposed solutions."
 classes: wide
 tags: 
   - AWS
