@@ -13,16 +13,21 @@ I'm a DevOps enthusiast with a focus on highly available, scalable, and reliable
 Outside of work, I'm a 10+ years slow-pitch softball lover and like to explore different beautiful national parks and beaches.
 
 ## Work history
-- DevOps Engineer at [Sportradar](https://sportradar.com/), Sydney, Australia (Aug 2022 - Present)
+- Senior Systems Engineer at [Commonwealth Bank of Australia](https://www.commbank.com.au/), Sydney, Australia (Jan 2024 - Present)
+- DevOps Engineer at [Sportradar](https://sportradar.com/), Sydney, Australia (Aug 2022 - Dec 2023)
 - Cloud Engineer at [Versent](https://versent.com.au/), Sydney, Australia (Jan 2021 - Aug 2022)
 - DevOps Engineer at [Vantage FX](https://www.vantagefx.com/), Sydney, Australia (Feb 2020 - Jan 2021)
 - Software Engineer at [QNAP Systems](https://www.qnap.com/), Taipei, Taiwan (Oct 2015 - Apr 2019)
 
 ## Skills
-- Cloud: AWS, Linux, Docker, Kubernetes, [oVirt](https://ovirt.org/)
-- Automation & CI/CD: AWS CDK, Terraform, GitLab CI/CD, CodePipeline, Bash scripting, Ansible
+- Cloud: AWS (Certified: [SAP](https://www.credly.com/badges/68d74e37-cc8c-44fc-8d87-04c2379d15d0/public_url), 
+[SAA](https://www.credly.com/badges/c5ffa651-393a-48bf-8350-9afac1180146), [DVA](https://www.credly.com/badges/765796de-dda9-4a3c-8cb6-8db118392a19), 
+[SOA](https://www.credly.com/badges/9ee96976-aa6d-45cb-9ce8-2c25ced0692f)), Linux, Docker, Kubernetes
+- Infrastructure as Code: AWS CDK, CloudFormation, Terraform, Serverless Framework
+- Automation & CI/CD: GitLab CI/CD, CodePipeline, Bash, Ansible
+- Observability: New Relic, Datadog
 - Database Administration: PostgreSQL, MySQL
-- Programming & other primitives: TypeScript, Python, C, Git, Nginx
+- Programming & other primitives: TypeScript, Python, C, Nginx
 
 ## Research
 My master's thesis is a digital watermark scheme, regarding using cryptographic tools to insert unforgeable and subject-related watermark into a 2-D grayscale image to resolve the copyright ownership dispute under adversarial watermark removal attacks.

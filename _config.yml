@@ -20,7 +20,7 @@ title                    : "Michael's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Michael Huang"
-description              : &description "DevOps Engineer at Sportradar"
+description              : &description "Senior Systems Engineer at Commonwealth Bank of Australia"
 url                      : "https://sdhuang32.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : #sdhuang32/sdhuang32.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
