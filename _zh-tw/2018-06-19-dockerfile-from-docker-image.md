@@ -2,7 +2,7 @@
 title:  "由 Docker image 反推其 Dockerfile"
 excerpt: "我將分享如何使用 Luka Peschke 的一個小工具來依據現有 Docker image 產出接近原始的 Dockerfile"
 classes: wide
-tags: 
+tags:
   - Linux
   - Docker
   - Tools

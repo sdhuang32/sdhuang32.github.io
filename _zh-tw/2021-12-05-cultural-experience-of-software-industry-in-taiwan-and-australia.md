@@ -2,7 +2,7 @@
 title: "澳洲技術移民分享 (0) 台灣及澳洲軟體工程職場文化感受"
 excerpt: "跟大家分享我在台灣及澳洲擔任軟體工程師感受到的企業文化差異與一點心得。"
 classes: wide
-tags: 
+tags:
   - Skilled Migration
   - Australia
   - Culture

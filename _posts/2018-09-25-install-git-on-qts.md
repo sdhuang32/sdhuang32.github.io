@@ -3,7 +3,7 @@ title:  "Install Git on QNAP QTS"
 excerpt: "I'm going to share a useful tip to install official Git utility directly on QNAP QTS, 
 which can definitely make your NAS more developer-friendly."
 classes: wide
-tags: 
+tags:
   - Linux
   - QNAP 
   - QTS

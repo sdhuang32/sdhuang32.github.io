@@ -3,7 +3,7 @@ title:  "Find out complete 'docker run' options of a running container"
 excerpt: "I'm going to share how to show the full 'docker run' command including all options 
 of a running container using a tool by Assaf Lavie." 
 classes: wide
-tags: 
+tags:
   - Linux
   - Docker
   - Tools

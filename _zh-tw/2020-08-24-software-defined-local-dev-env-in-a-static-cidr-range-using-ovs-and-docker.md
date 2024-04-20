@@ -3,7 +3,7 @@ title:  "用 OVS 及 Docker 在本地靜態網段中建立一個軟體定義的�
 excerpt: "分享一個在靜態 (固定 IP) 網段中建立一個簡單開發平台的方法，
 在你在本地開發容器化微服務時快速部署、串接、測試、並且與同個網段內的工程師同事共享服務。"
 classes: wide
-tags: 
+tags:
   - Linux
   - OVS
   - Docker

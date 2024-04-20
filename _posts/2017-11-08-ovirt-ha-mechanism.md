@@ -3,7 +3,7 @@ title:  "oVirt HA mechanism"
 excerpt: "I'm going to share my study about three HA features in oVirt: 
 Engine HA, Guest HA, and Host HA." 
 classes: wide
-tags: 
+tags:
   - oVirt
   - High Availability
 date: 2017-11-08

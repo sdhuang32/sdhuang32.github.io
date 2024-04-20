@@ -2,7 +2,7 @@
 title: "澳洲技術移民分享 (1) 簽證系統簡介與軟體工程師路線考量"
 excerpt: "跟大家分享澳洲簽證系統大方向以及適合軟體工程師的策略選擇"
 classes: wide
-tags: 
+tags:
   - Skilled Migration
   - Australia
   - Visa

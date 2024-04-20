@@ -3,7 +3,7 @@ title:  "Software-defined local development platform in a static CIDR range usin
 excerpt: "Here is a handy way to establish a simple development environment within your private LAN, 
 which enables you to quickly and easily develop, test, and troubleshoot your containerized applications."
 classes: wide
-tags: 
+tags:
   - Linux
   - OVS
   - Docker

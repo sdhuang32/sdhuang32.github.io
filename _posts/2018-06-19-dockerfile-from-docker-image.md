@@ -3,7 +3,7 @@ title:  "Retrieve Dockerfile from existing Docker image"
 excerpt: "In this article I'm going to share how to generate a close-to-original Dockerfile 
 of a Docker image using a useful tool by Luka Peschke."
 classes: wide
-tags: 
+tags:
   - Linux
   - Docker
   - Tools

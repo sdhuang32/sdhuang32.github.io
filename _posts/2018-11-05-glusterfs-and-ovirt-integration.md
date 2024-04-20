@@ -2,7 +2,7 @@
 title:  "GlusterFS and oVirt Integration"
 excerpt: "I'm going to share my study notes about some GlusterFS details and its relation with oVirt." 
 classes: wide
-tags: 
+tags:
   - GlusterFS
   - oVirt
 date: 2018-11-05

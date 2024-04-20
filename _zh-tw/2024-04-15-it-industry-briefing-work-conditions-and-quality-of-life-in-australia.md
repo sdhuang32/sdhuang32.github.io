@@ -2,7 +2,7 @@
 title: "澳洲技術移民分享 (2) IT 產業概況、勞動條件、生活品質"
 excerpt: "跟大家分享自己對澳洲 IT 產業的粗略觀察以及在當地工作生活起來大概會長什麼樣子"
 classes: wide
-tags: 
+tags:
   - Skilled Migration
   - Australia
 toc: true

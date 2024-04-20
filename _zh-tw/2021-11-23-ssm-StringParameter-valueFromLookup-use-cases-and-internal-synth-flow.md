@@ -2,7 +2,7 @@
 title:  "AWS CDK ssm.StringParameter.valueFromLookup() 應用場景與 Synthesis 流程分析"
 excerpt: "跟大家分享 CDK 中 `ssm.StringParameter.valueFromLookup()` 可能造成的問題，synth 過程分析，以及解決方案"
 classes: wide
-tags: 
+tags:
   - AWS
   - CDK
   - Infrastructure as Code

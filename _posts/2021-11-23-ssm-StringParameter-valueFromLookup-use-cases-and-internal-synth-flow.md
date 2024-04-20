@@ -3,7 +3,7 @@ title:  "AWS CDK ssm.StringParameter.valueFromLookup() use cases and internal sy
 excerpt: "Sharing with you issues that CDK `ssm.StringParameter.valueFromLookup()` method might cause,
 the root cause and its relationship with `cdk synth` internal flow, and proposed solutions."
 classes: wide
-tags: 
+tags:
   - AWS
   - CDK
   - Infrastructure as Code
