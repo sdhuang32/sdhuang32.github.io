@@ -7,7 +7,7 @@ tags:
   - Australia
 toc: true
 date: 2024-04-15
-last_modified_at: 2024-11-05
+last_modified_at: 2025-08-15
 ---
 
 *聲明: 本人是軟體工程師而非移民律師/代辦，文章內容為自身經驗以及查閱相關資訊消化後之成果，我盡力確保資訊直至文章最後更新日止為正確，若見錯誤還請留言或郵件告知。若有疑問歡迎詢問，我會盡力回答，不過還是建議前往各官方網站查證最新資訊，以及諮詢專業移民律師/代辦。*
@@ -47,7 +47,7 @@ last_modified_at: 2024-11-05
 在全世界範圍內都相當優秀，我這提幾項最重要的:
 - [每年帶薪特休 20 天][20]，無論年資。同一間公司服務特別久的人額外還有 [Long Service Leave](https://www.fairwork.gov.au/leave/long-service-leave)。
 - [每年帶薪病假/照顧假 10 天][10]，無論年資。雇主可要求提供證明，但實務上偶爾一天或兩天的病假我從來沒碰過或聽過被要求提供的案例。
-- [雇主須額外提撥薪水 11.5% 進到個人退休金帳戶][11]。
+- [雇主須額外提撥薪水 12% 進到個人退休金帳戶][12]。關於個人退休金帳戶如何運作請參考[這裡][withdraw_super]。
 
 ### 工時
 
@@ -67,7 +67,7 @@ last_modified_at: 2024-11-05
 
 ### 稅務
 
-大部分的稅例如個人所得税、企業所得稅、消費稅 (GST)、健保費都是全國統一，由聯邦收取及管理，不像美加那樣所得稅、消費稅及醫療由各州/省自訂。我個人十分欣賞澳洲的做法，因為從民眾的角度來看這讓我們的生活比較簡單、無腦，不需要因為換州居住就要改變申報所得稅的方式及税率，也不會因為跨州居住旅行有醫療需求時還得換醫保卡之類跟州政府交涉，也不需要在看到商品標價的時候自行計算加上該州消費稅以及小費後的結果，順帶一提澳洲沒有強迫小費文化，因此商品標價是真正的所見即所得，以上這些都這讓人民的財務管理容易許多，心理壓力也輕上許多。
+大部分的稅例如個人所得税、企業所得稅、消費稅 (GST)、健保費都是全國統一，由聯邦收取及管理，不像美加那樣所得稅、消費稅及醫療由各州/省自訂。我個人十分欣賞澳洲的做法，因為從民眾的角度來看這讓我們的生活比較簡單、無腦，不需要因為換州居住就要改變申報所得稅的方式及税率，也不會因為跨州居住旅行有醫療需求時還得換醫保卡之類跟州政府交涉，也不需要在看到商品標價的時候自行計算加上該州消費稅以及小費後的結果 (澳洲沒有強迫小費文化，且消費稅全國統一並預設包含於售價中，因此商品標價是真正的所見即所得)。以上這些都這讓人民的財務管理容易許多，心理壓力也輕上許多。
 
 跟工作最相關的個人所得稅採取階梯稅率，[這個網站](https://paycalculator.com.au/)有好用的計算機可以多加利用。如果買房則會產生印花稅、地價稅等等州稅，各州税率、收取條件差異頗大，請參閱各州官方網站。
 
@@ -88,7 +88,8 @@ last_modified_at: 2024-11-05
 
 [20]: <https://www.fairwork.gov.au/leave/annual-leave#how-much-annual-leave-an-employee-gets>
 [10]: <https://www.fairwork.gov.au/leave/sick-and-carers-leave#paid-sick-leave>
-[11]: <https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-super-contributions/how-much-super-to-pay#ato-Workouthowmuchtopay>
+[12]: <https://www.ato.gov.au/businesses-and-organisations/super-for-employers/paying-super-contributions/how-much-super-to-pay#ato-Yoursuperguaranteeobligations>
+[withdraw_super]: <https://moneysmart.gov.au/how-super-works>
 [38]: <https://www.fairwork.gov.au/employment-conditions/hours-of-work-breaks-and-rosters/hours-of-work#maximum-weekly-hours>
 [482]: <https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream>
 
